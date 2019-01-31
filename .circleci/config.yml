@@ -10,7 +10,7 @@ jobs:
 
     # Specify the Xcode version to use
     macos:
-      xcode: "8.3.3"
+      xcode: "10.1.0"
     working_directory: /Users/distiller/project
 
     steps:
